@@ -1,0 +1,49 @@
+.logbutt {
+    /* background-color: #4fc3f7;
+    color: #fff;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer; */
+    background-color: #4fc3f7;
+    color: white;
+    padding: 10px 20px;
+    border-radius: 5px;
+    font-size: 16px;
+    border: none;
+    cursor: pointer;
+    transition: all 0.2s ease-in-out;
+  }
+
+  .logbutt:hover{
+    background-color: #41a1ce;
+    transform: translateY(-3px);
+    box-shadow: 0 10px 20px rgba(0, 0, 0, 0.3);
+  }
+
+  .carmod{
+    margin-right: 150px;
+    height: 42px;
+    width: 250px;
+  }
+  
+  .btn-primary{
+    background-color: #4fc3f7;
+    color: white;
+    padding: 10px 20px;
+    border-radius: 5px;
+    font-size: 16px;
+    border: none;
+    cursor: pointer;
+    transition: all 0.2s ease-in-out;
+  }
+
+  .myalert{
+    padding: 10px !important;
+  }
+  .car{
+    padding-left: 20px;
+  }
+ 
+
+  

@@ -1,0 +1,113 @@
+/* Overall page styles */
+body {
+  font-family: Arial, sans-serif;
+  background-image: url("../download.jpeg");
+  background-size:cover;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-attachment: fixed;
+  height: 100vh;
+  /* display: flex;
+  align-items: center;
+  justify-content: center; */
+}
+
+/* navbar container */
+nav.navbar {
+  background-color: rgba(21, 24, 174, 0.7) !important;
+  height: 60px; 
+  color: #fff;
+  /* font-weight:600 ; */
+  font-size: 33px ; 
+  padding-left: 15px;
+  align-content: center;
+  /* margin-bottom: 300px;
+  position:fixed; */
+}
+/* Form styles */
+form {
+  background-color: rgba(255,255,255,0.4);
+  border-radius: 10px;
+  padding: 35px;
+  width: 400px;
+  margin: 40px auto;
+  box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+}
+
+form h2 {
+  font-size: 24px;
+  font-weight: bold;
+  margin-bottom: 20px;
+}
+
+form label {
+  display: block;
+  font-weight: bold;
+  margin-bottom: 5px;
+}
+
+form input[type="text"],
+form input[type="email"],
+form input[type="password"] {
+  display: block;
+  width: 100%;
+  padding: 10px;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+  margin-bottom: 20px;
+}
+
+form input[type="submit"] {
+  border: none;
+  color: #fff;
+  padding: 10px 20px;
+  border-radius: 5px;
+  cursor: pointer;
+}
+
+form input[type="submit"]:hover {
+  background-color: #3e8e41;
+}
+
+form p {
+  margin-top: 10px;
+  font-size: 14px;
+}
+
+form p a {
+  color: #4CAF50;
+  text-decoration: none;
+}
+
+form p a:hover {
+  text-decoration: underline;
+}
+
+.logbutt {
+  /* background-color: #4fc3f7;
+  color: #fff;
+  padding: 10px 20px;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer; */
+  background-color: #4fc3f7;
+  color: white;
+  padding: 10px 20px;
+  border-radius: 5px;
+  font-size: 16px;
+  border: none;
+  cursor: pointer;
+  transition: all 0.2s ease-in-out;
+}
+
+.logbutt:hover{
+  background-color: #41a1ce;
+  transform: translateY(-3px);
+  box-shadow: 0 10px 20px rgba(0, 0, 0, 0.3);
+}
+
+.fant{
+  padding-bottom: 10px;
+  color: #fff;
+  font-size:xx-large;
+}

@@ -1,0 +1,518 @@
+.image-background {
+    width: 100%;
+    height: 710px;
+    background-image: url("final.png");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+    
+  }
+  .Cafe_Good_Times{
+    display: inline-block;
+    position: absolute;
+    width: 1px;
+    height: 1px;
+    padding: 5px;
+    background-color:darkviolet;
+    border: none;
+    border-radius: 5px 5px 0 0;
+    margin-top: 263px;
+    margin-left: 360px;
+    cursor: pointer;
+ }
+  .Sainik_Vishram_Grah_Roorkee{
+    display: inline-block;
+    width: 1px;
+    height: 1px;
+    padding: 5px;
+    position: absolute;
+    background-color:darkviolet;
+    border: none;
+    border-radius: 5px 5px 0 0;
+    margin-top: 340px;
+    margin-left: 332px;
+    cursor: pointer;
+  }
+ 
+  .Swansh_Library{
+    display: inline-block;
+    width: 1px;
+    height: 1px;
+    padding: 5px;
+    position: absolute;
+    background-color:darkviolet;
+    border: none;
+    border-radius: 5px 5px 0 0;
+    margin-top: 423px;
+    margin-left: 330px;
+    cursor: pointer;
+  }
+ .Om_Garden{
+  display: inline-block;
+  width: 1px;
+  height: 1px;
+  padding: 5px;
+    position: absolute;
+    background-color:darkviolet;
+    border: none;
+    border-radius: 5px 5px 0 0;
+    margin-top: 470px;
+    margin-left: 225.5px;
+    cursor: pointer;
+ }
+ .Shiv_Mandir{
+  display: inline-block;
+  width: 1px;
+  height: 1px;
+  padding: 5px;
+    position: absolute;
+    background-color:darkviolet;
+    border: none;
+    border-radius: 5px 5px 0 0;
+    margin-top: 672px;
+    margin-left: 216.5px;
+    cursor: pointer;
+ }
+ .Essar_Petrol_Pump{
+  display: inline-block;
+  width: 1px;
+  height: 1px;
+  padding: 5px;
+    position: absolute;
+    background-color:darkviolet;
+    border: none;
+    border-radius: 5px 5px 0 0;
+    margin-top: 638px;
+    margin-left: 262px;
+    cursor: pointer;
+ }
+ .Hemant_Hospital{
+  display: inline-block;
+  width: 1px;
+  height: 1px;
+  padding: 5px;
+    position: absolute;
+    background-color:darkviolet;
+    border: none;
+    border-radius: 5px 5px 0 0;
+    margin-top: 668px;
+    margin-left: 570px;
+    cursor: pointer;
+ }
+ .BSM_PG_College_Roorkee{
+  display: inline-block;
+  width: 1px;
+  height: 1px;
+  padding: 5px;
+    position: absolute;
+    background-color:darkviolet;
+    border: none;
+    border-radius: 5px 5px 0 0;
+    margin-top: 612px;
+    margin-left: 590px;
+    cursor: pointer;
+ }
+ .KFC{
+  display: inline-block;
+  width: 1px;
+    height: 1px;
+    padding: 5px;
+  position: absolute;
+  background-color:darkviolet;
+  border: none;
+  border-radius: 5px 5px 0 0;
+  margin-top: 508px;
+  margin-left: 536.5px;
+  cursor: pointer;
+ }
+.Roorkee_City_Filling_Station{
+  display: inline-block;
+  width: 1px;
+    height: 1px;
+    padding: 5px;
+  position: absolute;
+  background-color:darkviolet;
+  border: none;
+  border-radius: 5px 5px 0 0;
+  margin-top: 470px;
+  margin-left: 597px;
+  cursor: pointer;
+}
+.K_L_Polytechnic{
+  display: inline-block;
+  width: 1px;
+  height: 1px;
+  padding: 5px;
+  position: absolute;
+  background-color:darkviolet;
+  border: none;
+  border-radius: 5px 5px 0 0;
+  margin-top: 352px;
+  margin-left: 523px;
+  cursor: pointer;
+}
+.Hotel_View_Castle{
+  display: inline-block;
+  width: 1px;
+    height: 1px;
+    padding: 5px;
+  position: absolute;
+  background-color:darkviolet;
+  border: none;
+  border-radius: 5px 5px 0 0;
+  margin-top: 314px;
+  margin-left: 526px;
+  cursor: pointer;
+}
+.Oyo_Paradise_In{
+  display: inline-block;
+  width: 1px;
+  height: 1px;
+  padding: 5px;
+  position: absolute;
+  background-color:darkviolet;
+  border: none;
+  border-radius: 5px 5px 0 0;
+  margin-top: 152px;
+  margin-left: 521px;
+  cursor: pointer;
+}
+.Badshah_Hotel{
+  display: inline-block;
+  width: 1px;
+    height: 1px;
+    padding: 5px;
+  position: absolute;
+  background-color:darkviolet;
+  border: none;
+  border-radius: 5px 5px 0 0;
+  margin-top: 144px;
+  margin-left: 844px;
+  cursor: pointer;
+}
+.Sabji_Mandi_Roorkee{
+  display: inline-block;
+  width: 1px;
+  height: 1px;
+  padding: 5px;
+  position: absolute;
+  background-color:darkviolet;
+  border: none;
+  border-radius: 5px 5px 0 0;
+  margin-top: 197px;
+  margin-left: 867.5px;
+  cursor: pointer; 
+}
+.Vishal_Mega_Mart{
+  display: inline-block;
+  width: 1px;
+  height: 1px;
+  padding: 5px;
+  position: absolute;
+  background-color:darkviolet;
+  border: none;
+  border-radius: 5px 5px 0 0;
+  margin-top: 270px;
+  margin-left: 1000px;
+  cursor: pointer; 
+}
+.Reliance_Digital{
+  display: inline-block;
+  width: 1px;
+  height: 1px;
+  padding: 5px;
+    position: absolute;
+    background-color:darkviolet;
+    border: none;
+    border-radius: 5px 5px 0 0;
+    margin-top: 550px;
+    margin-left: 790px;
+    cursor: pointer;
+}
+.Roorkee_Bus_Stand{
+  display: inline-block;
+  width: 1px;
+  height: 1px;
+  padding: 5px;
+    position: absolute;
+    background-color:darkviolet;
+    border: none;
+    border-radius: 5px 5px 0 0;
+    margin-top: 603px;
+    margin-left: 859px;
+    cursor: pointer;
+}
+.Motel_Divine_International{
+  display: inline-block;
+  width: 1px;
+  height: 1px;
+  padding: 5px;
+    position: absolute;
+    background-color:darkviolet;
+    border: none;
+    border-radius: 5px 5px 0 0;
+    margin-top: 602px;
+    margin-left: 892px;
+    cursor: pointer;
+}
+.Itsy_By_Treebo{
+  display: inline-block;
+  width: 1px;
+  height: 1px;
+  padding: 5px;
+    position: absolute;
+    background-color:darkviolet;
+    border: none;
+    border-radius: 5px 5px 0 0;
+    margin-top: 697px;
+    margin-left: 945px;
+    cursor: pointer;
+}
+.Desi_Tadka{
+  display: inline-block;
+  width: 1px;
+  height: 1px;
+  padding: 5px;
+    position: absolute;
+    background-color:darkviolet;
+    border: none;
+    border-radius: 5px 5px 0 0;
+    margin-top: 325px;
+    margin-left: 974px;
+    cursor: pointer;
+}
+.Kih_Lawn{
+  display: inline-block;
+  width: 1px;
+  height: 1px;
+  padding: 5px;
+  position: absolute;
+  background-color:darkviolet;
+  border: none;
+  border-radius: 5px 5px 0 0;
+  margin-top: 670px;
+  margin-left: 1139px;
+  cursor: pointer;
+}
+.Football_Ground{
+  display: inline-block;
+  width: 1px;
+  height: 1px;
+  padding: 5px;
+  position: absolute;
+  background-color:darkviolet;
+  border: none;
+  border-radius: 5px 5px 0 0;
+  margin-top: 480px;
+  margin-left: 1135px;
+  cursor: pointer;
+}
+.Aroma{
+  display: inline-block;
+  width: 1px;
+  height: 1px;
+  padding: 5px;
+  position: absolute;
+  background-color:darkviolet;
+  border: none;
+  border-radius: 5px 5px 0 0;
+  margin-top: 403px;
+  margin-left: 1083px;
+  cursor: pointer;
+}
+.Department_Of_Earthquake_Engineering{
+  display: inline-block;
+  width: 1px;
+  height: 1px;
+  padding: 5px;
+  position: absolute;
+  background-color:darkviolet;
+  border: none;
+  border-radius: 5px 5px 0 0;
+  margin-top: 544px;
+  margin-left: 1207px;
+  cursor: pointer;
+}
+.Mehta_Events{
+  display: inline-block;
+  width: 1px;
+  height: 1px;
+  padding: 5px;
+  position: absolute;
+  background-color:darkviolet;
+  border: none;
+  border-radius: 5px 5px 0 0;
+  margin-top: 212px;
+  margin-left: 1217px;
+  cursor: pointer;
+}
+.CBRI_Play_Ground{
+  display: inline-block;
+  width: 1px;
+  height: 1px;
+  padding: 5px;
+  position: absolute;
+  background-color:darkviolet;
+  border: none;
+  border-radius: 5px 5px 0 0;
+  margin-top: 660px;
+  margin-left: 1309px;
+  cursor: pointer;
+}
+.Kendriya_Vidyalaya{
+  display: inline-block;
+  width: 1px;
+  height: 1px;
+  padding: 5px;
+  position: absolute;
+  background-color:darkviolet;
+  border: none;
+  border-radius: 5px 5px 0 0;
+  margin-top: 602px;
+  margin-left: 1413px;
+  cursor: pointer;
+}
+.Balaji_Coaching_Academy{
+  display: inline-block;
+  width: 1px;
+  height: 1px;
+  padding: 5px;
+  position: absolute;
+  background-color:darkviolet;
+  border: none;
+  border-radius: 5px 5px 0 0;
+  margin-top: 355px;
+  margin-left: 1420px;
+  cursor: pointer;
+}
+.Laxmi_Vihar{
+  display: inline-block;
+  width: 1px;
+  height: 1px;
+  padding: 5px;
+  position: absolute;
+  background-color:darkviolet;
+  border: none;
+  border-radius: 5px 5px 0 0;
+  margin-top: 163px;
+  margin-left: 1496px;
+  cursor: pointer;
+}
+.Sita_Ram_Degree_College{
+  display: inline-block;
+  position: absolute;
+  width: 1px;
+  height: 1px;
+  padding: 5px;
+  background-color:darkviolet;
+  border: none;
+  border-radius: 5px 5px 0 0;
+  margin-top: 70px;
+  margin-left: 135px;
+  cursor: pointer;
+}
+.Uttarakhand_Board_Of_Technical_Education
+{
+  display: inline-block;
+  position: absolute;
+  width: 1px;
+  height: 1px;
+  padding: 5px;
+  background-color:darkviolet;
+  border: none;
+  border-radius: 5px 5px 0 0;
+  margin-top: 55px;
+  margin-left: 383px;
+  cursor: pointer;
+}
+.Lotus{
+  display: inline-block;
+  position: absolute;
+  width: 1px;
+  height: 1px;
+  padding: 5px;
+  background-color:darkviolet;
+  border: none;
+  border-radius: 5px 5px 0 0;
+  margin-top: 63px;
+  margin-left: 517px;
+  cursor: pointer;
+}
+.City_College_Of_Management{
+  display: inline-block;
+  position: absolute;
+  width: 1px;
+  height: 1px;
+  padding: 5px;
+  background-color:darkviolet;
+  border: none;
+  border-radius: 5px 5px 0 0;
+  margin-top: 55px;
+  margin-left: 945px;
+  cursor: pointer;
+}
+.Solani_Aqueduct{
+  display: inline-block;
+  position: absolute;
+  width: 1px;
+  height: 1px;
+  padding: 5px;
+  background-color:darkviolet;
+  border: none;
+  border-radius: 5px 5px 0 0;
+  margin-top: 70px;
+  margin-left: 1093px;
+  cursor: pointer;
+}
+.Diamond_Heritage_Banquets_And_Lawn{
+  display: inline-block;
+  position: absolute;
+  width: 1px;
+  height: 1px;
+  padding: 5px;
+  background-color:darkviolet;
+  border: none;
+  border-radius: 5px 5px 0 0;
+  margin-top: 57px;
+  margin-left: 1446px;
+  cursor: pointer;
+}
+.popup {
+  position: fixed;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  background-color: white;
+  padding: 20px;
+  border-radius: 5px;
+  box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.2);
+  z-index: 9999;
+}
+
+.popup-overlay {
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  background-color: rgba(0, 0, 0, 0.5);
+  z-index: 9998;
+}
+.confirm{
+  background-color: aliceblue;
+}
+
+h5{
+  margin-left: 15px;
+  margin-bottom: 10px;
+  color:cadetblue;
+}
+.modal-dialog{
+  padding: 15px;
+  border-radius: 10px;
+  background-color: aliceblue;
+}
+.btn btn-primary{
+  margin: 10px;
+  border-radius: 0px;
+}

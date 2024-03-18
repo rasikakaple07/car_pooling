@@ -1,0 +1,67 @@
+/* Modify brand and text color */
+.navbar-custom .navbar-brand,
+.navbar-custom .navbar-text {
+	color: white;
+}
+/* Modify the background color */
+.navbar-custom {
+	background-color: #52377e;
+}
+
+button{
+  background-color: #4fc3f7;
+  color: #4fc3f7;
+}
+.man{
+ 
+  float:right;
+}
+.stripes{
+  padding-top: 15px;
+  padding-left: 8px;
+  float:left;
+}
+.apurva{
+float:right;
+padding-bottom: 30px;
+padding-right: 20px;
+}
+.call{
+  float : left;
+  height: fit-content;
+  width:46px;
+  padding-top: 30px;
+}
+h2{
+  padding-top: 15px;
+  padding-left: 55px;
+}
+.collapsible{
+  background-color: white;
+  color: black;
+  cursor: pointer;
+  padding: 18px;
+  width: 50%;
+  border: none;
+  text-align: left;
+  outline: none;
+  font-size: 15px;
+}
+.content{
+  padding: 0 18px;
+  max-height: 0;
+  overflow: hidden;
+  transition: max-height 0.2s ease-out;
+  background-color: #f1f1f1;
+}
+.active, .collapsible:hover {
+  background-color: whitesmoke;
+}
+.join{
+  float: left;
+  padding-top: 30px;
+  height: 25px;
+  width: 45px;
+  color: rgba(32, 173, 216, 0.7);
+  background-color: rgba(32, 173, 216, 0.7);
+}

@@ -1,0 +1,85 @@
+.home-container {
+    background-image: url(/src/components/background.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    display:flex;
+    align-items: center;
+      justify-content: center;
+      width:100vw;
+      height:45vw;
+      align-content: center;
+      padding-top: 1000px;
+    }
+
+    form {
+        background-color: rgba(255,255,255,0.4);
+        border-radius: 10px;
+        padding: 35px;
+        width: 400px;
+        box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+      }
+
+.subd{
+    justify-self: center;
+    background-color: rgba(255,255,255,0.33);
+    backdrop-filter: blur(2px);
+    gap:50px;
+    padding:0 50px 20px 20px;
+    border-radius: 15px;
+    width:25%;
+}
+.ask{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-weight: 500;
+    margin-left: 12%;
+    margin-top: 10px;
+}
+
+.pb{
+    background-color: black;
+    border-radius: 5px;
+    padding:8px 10px 8px 8px;
+    font-family: serif;
+    font-size: large;
+    color:white;
+    margin-left: 37%;
+    cursor: pointer;
+}
+.db{
+    background-color: black;
+    border-radius: 5px;
+    padding:8px 10px 8px 8px;
+    font-family: serif;
+    font-size: large;
+    color: white;
+    margin-left:41%;
+    cursor:pointer
+}
+
+.button:hover{
+    background-color: rgba(248, 54, 0, 0.441);
+}
+
+.logbutt {
+    /* background-color: #4fc3f7;
+    color: #fff;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer; */
+    background-color: #4fc3f7;
+    color: white;
+    padding: 10px 20px;
+    border-radius: 5px;
+    font-size: 16px;
+    border: none;
+    cursor: pointer;
+    transition: all 0.2s ease-in-out;
+  }
+  
+  .logbutt:hover{
+    background-color: #41a1ce;
+    transform: translateY(-5px);
+    box-shadow: 0 10px 20px rgba(0, 0, 0, 0.3);
+  }
+  
